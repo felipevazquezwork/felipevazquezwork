@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipevazquezwork
 - 👀 I’m interested in .Net Develop, Functional & POO
-- 🌱 I’m currently learning Devops 
+- 🌱 Devops and automation processs 
 - 💞️ I’m looking to collaborate on Functional & Integration Test
 - 📫 How to reach me in felipe.vazquez
 
